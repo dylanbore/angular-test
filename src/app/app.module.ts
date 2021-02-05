@@ -9,10 +9,6 @@ import { SecondComponent } from './second/second.component';
 @NgModule({
   declarations: [
     AppComponent,
-    DashboardComponent,
-    FirstComponentComponent,
-    SecondComponentComponent,
-    InitialComponentComponent,
     FirstComponent,
     SecondComponent
   ],
